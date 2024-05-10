@@ -1,4 +1,4 @@
-- building machine learning models
+building machine learning models
 
 <!---
 noahbaron91/noahbaron91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
